@@ -1,10 +1,3 @@
-/**
- * @Project Name: alasga-app
- * File Name:${FILE_NAME}
- * Package Name:com.cn.alasga.app.gateway.aspect
- * @Date 2018/7/10/010 17:05
- * Copyright (c) 2017, http://www.alasga.cn All Rights Reserved.
- **/
 package org.mybot.resubmit.aspect;
 
 import com.alibaba.fastjson.JSONObject;
